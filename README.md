@@ -1,3 +1,8 @@
+Acknowledgements
+================
+
+Forked and adapted from Luke Antins' [resque-lock-timeout v0.4.5][resque-lock-timeout] plugin.
+
 ActiveJob Lock
 ===================
 
@@ -227,11 +232,6 @@ Install
 =======
 
     $ gem install active_job_lock
-
-Acknowledgements
-================
-
-Forked and adapted from Luke Antins' [resque-lock-timeout v0.4.5][resque-lock-timeout] plugin.
 
 [activejob]: https://github.com/rails/rails/tree/master/activejob
 [resque-lock-timeout]: https://github.com/lantins/resque-lock-timeout/tree/v0.4.5
